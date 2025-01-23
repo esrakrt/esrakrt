@@ -9,9 +9,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 0; justify-content: center; align-items: center; margin: 0; padding: 0; list-style: none;">
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <ahref="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
-    </a><a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    </a><ahref="https://www.blender.org/" target="_blank" rel="noreferrer">
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40" />
     </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
