@@ -59,14 +59,16 @@
     </a>
 </p>
 
+<h3 align="left">Most Used Languages:</h3>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esrakrt&show_icons=true&locale=en&layout=compact" alt="esrakrt" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+</p>
+
+<h3 align="left">GitHub Stats:</h3>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=esrakrt&show_icons=true&locale=en" alt="esrakrt" />
-</p>
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esrakrt&locale=en" alt="esrakrt" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&locale=en" alt="GitHub Streak Stats" />
 </p>
