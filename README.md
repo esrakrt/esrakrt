@@ -57,22 +57,11 @@
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" />
     </a>
-    <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Turkey.svg" alt="Turkish" width="40" height="40" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="English" width="40" height="40" />
-    </a>
+  
 </p>
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esrakrt&show_icons=true&locale=en&layout=compact" alt="esrakrt" />
 </p>
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=esrakrt&show_icons=true&locale=en" alt="esrakrt" />
-</p>
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esrakrt&locale=en" alt="esrakrt" />
-</p>
