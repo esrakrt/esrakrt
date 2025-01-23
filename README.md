@@ -60,13 +60,13 @@
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact&custom_title=Most Used Languages%20(English%20and%20Turkish)" alt="Most Used Languages" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esrakrt&show_icons=true&locale=en&layout=compact" alt="esrakrt" />
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=esrakrt&show_icons=true&locale=en" alt="esrakrt" />
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&locale=en" alt="GitHub Streak Stats" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esrakrt&locale=en" alt="esrakrt" />
 </p>
