@@ -59,12 +59,10 @@
     </a>
 </p>
 
-<h3 align="left">Most Used Languages:</h3>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact&custom_title=Most Used Languages%20(English%20and%20Turkish)" alt="Most Used Languages" />
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
