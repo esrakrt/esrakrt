@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 0; justify-content: center; align-items: center; margin: 0; padding: 0; list-style: none;">
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
     </a>
