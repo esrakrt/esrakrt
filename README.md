@@ -67,6 +67,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=esrakrt&show_icons=true&locale=en" alt="esrakrt" />
 </p>
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esrakrt&locale=en" alt="esrakrt" />
-</p>
+
